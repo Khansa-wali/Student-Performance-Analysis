@@ -1,2 +1,2 @@
 # Student-Performance-Analysis
- An AI-powered Streamlit web application that predicts student exam performance using machine learning. It analyzes academic behavior such as study hours, attendance, and motivation to estimate scores, classify pass/fail status, and provide personalized improvement recommendations.
+ An end-to-end Machine Learning project that predicts student exam scores and pass/fail outcomes using academic and demographic features. Includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and an interactive Streamlit web application.
